@@ -12,4 +12,4 @@ node app.js list (default is all)
 node app.js list --status="boolean" 
 ```
 
-> Example: ```node app.js add --todo="this is an example"```
+> Example: ```![](example.JPG)```
