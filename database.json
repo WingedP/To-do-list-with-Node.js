@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "todo": "finishing homework",
+        "status": false
+    },
+    {
+        "id": 2,
+        "todo": "eat dinner",
+        "status": true
+    },
+    {
+        "id": 3,
+        "todo": "tired tired",
+        "status": false
+    },
+    {
+        "id": 4,
+        "todo": "take a shower",
+        "status": false
+    },
+    {
+        "id": 5,
+        "todo": "ewfwefwef",
+        "status": true
+    },
+    {
+        "id": 6,
+        "todo": "ewfwefwef",
+        "status": true
+    },
+    {
+        "id": 7,
+        "todo": "test chalk",
+        "status": true
+    }
+]
